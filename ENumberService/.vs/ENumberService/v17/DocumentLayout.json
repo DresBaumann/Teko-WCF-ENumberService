@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A4748C-4196-46DB-9611-7527AA8D3908}|ENumberClient\\ENumberClient.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A4748C-4196-46DB-9611-7527AA8D3908}|ENumberClient\\ENumberClient.csproj|solutionrelative:enumberclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\services\\ievaluationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\services\\ievaluationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\services\\evaluationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\services\\evaluationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\services\\queryservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\services\\queryservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\services\\iqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\services\\iqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\services\\ienidentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\services\\ienidentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|d:\\git\\teko-wcf-enumberservice\\enumberservice\\enumberservice\\services\\enidentificationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD280ABB-819F-4489-9E1D-83312D700A20}|ENumberService\\ENumberService.csproj|solutionrelative:enumberservice\\services\\enidentificationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQueryService.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\IQueryService.cs",
+              "RelativeDocumentMoniker": "ENumberService\\Services\\IQueryService.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\IQueryService.cs",
+              "RelativeToolTip": "ENumberService\\Services\\IQueryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:05:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IENIdentificationService.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\IENIdentificationService.cs",
+              "RelativeDocumentMoniker": "ENumberService\\Services\\IENIdentificationService.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\IENIdentificationService.cs",
+              "RelativeToolTip": "ENumberService\\Services\\IENIdentificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:05:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEvaluationService.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\IEvaluationService.cs",
+              "RelativeDocumentMoniker": "ENumberService\\Services\\IEvaluationService.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\IEvaluationService.cs",
+              "RelativeToolTip": "ENumberService\\Services\\IEvaluationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:05:35.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ENIdentificationService.svc.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\ENIdentificationService.svc.cs",
+              "RelativeDocumentMoniker": "ENumberService\\Services\\ENIdentificationService.svc.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\ENIdentificationService.svc.cs",
+              "RelativeToolTip": "ENumberService\\Services\\ENIdentificationService.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:14:43.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberClient\\Program.cs",
+              "RelativeDocumentMoniker": "ENumberClient\\Program.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberClient\\Program.cs",
+              "RelativeToolTip": "ENumberClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:09:03.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueryService.svc.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\QueryService.svc.cs",
+              "RelativeDocumentMoniker": "ENumberService\\Services\\QueryService.svc.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\QueryService.svc.cs",
+              "RelativeToolTip": "ENumberService\\Services\\QueryService.svc.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:16:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvaluationService.svc.cs",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\EvaluationService.svc.cs",
+              "RelativeDocumentMoniker": "ENumberService\\Services\\EvaluationService.svc.cs",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Services\\EvaluationService.svc.cs",
+              "RelativeToolTip": "ENumberService\\Services\\EvaluationService.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:19:07.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Web.config",
+              "RelativeDocumentMoniker": "ENumberService\\Web.config",
+              "ToolTip": "D:\\git\\Teko-WCF-ENumberService\\ENumberService\\ENumberService\\Web.config",
+              "RelativeToolTip": "ENumberService\\Web.config",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T18:03:13.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

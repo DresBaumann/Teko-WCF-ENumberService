@@ -1,0 +1,7 @@
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\bin\ENumberService.dll.config
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\bin\ENumberService.dll
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\bin\ENumberService.pdb
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\obj\Debug\ENumberService.csproj.AssemblyReference.cache
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\obj\Debug\ENumberService.csproj.CoreCompileInputs.cache
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\obj\Debug\ENumberService.dll
+D:\git\Teko-WCF-ENumberService\ENumberService\ENumberService\obj\Debug\ENumberService.pdb

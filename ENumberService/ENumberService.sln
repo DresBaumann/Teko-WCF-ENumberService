@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENumberService", "ENumberService\ENumberService.csproj", "{CD280ABB-819F-4489-9E1D-83312D700A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENumberClient", "ENumberClient\ENumberClient.csproj", "{B4A4748C-4196-46DB-9611-7527AA8D3908}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD280ABB-819F-4489-9E1D-83312D700A20} = {CD280ABB-819F-4489-9E1D-83312D700A20}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD280ABB-819F-4489-9E1D-83312D700A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD280ABB-819F-4489-9E1D-83312D700A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD280ABB-819F-4489-9E1D-83312D700A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD280ABB-819F-4489-9E1D-83312D700A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A4748C-4196-46DB-9611-7527AA8D3908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A4748C-4196-46DB-9611-7527AA8D3908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A4748C-4196-46DB-9611-7527AA8D3908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A4748C-4196-46DB-9611-7527AA8D3908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2DD36D-28CE-4BDF-BF95-E99720DE95BD}
+	EndGlobalSection
+EndGlobal
